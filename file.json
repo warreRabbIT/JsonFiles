@@ -6,7 +6,7 @@
     "cmc": 4,
     "isLegalInCommander": true,
     "releaseDate": "1-1-1992",
-    "cardImg": "https://example.com/profiles/john_doe.jpg",
+    "cardImg": "https://github.com/warreRabbIT/JsonFiles/blob/main/Project/Aragorn_King_of_Gondor.jpg?raw=true",
     "cardColor": "Blue/White/Red",
     "sets": ["fifth edition", "secret lair", "LoR special edition"],
     "deck": {
