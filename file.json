@@ -10,7 +10,7 @@
     "cardColor": "Blue",
     "sets": ["fifth edition", "secret lair", "LoR special edition"],
     "deck": {
-        "id":1,
+        "id":0,
         "name": "Riders of Rohan",
         "commanderImg": "https://example.com/profiles/john_doe.jpg",
         "commander": ["john_doe"],
@@ -39,7 +39,7 @@
     "cardColor": "White",
     "sets": ["Theros", "Commander Anthology", "Theros Beyond Death"],
     "deck": {
-        "id": 2,
+        "id": 1,
         "name": "Soldiers' Legion",
         "commanderImg": "https://example.com/profiles/elspeth_suns_champion.jpg",
         "commander": ["elspeth_suns_champion"],
@@ -68,7 +68,7 @@
     "cardColor": "White/Blue/Black",
     "sets": ["Coldsnap", "Commander 2016", "Commander 2017"],
     "deck": {
-        "id": 3,
+        "id": 2,
         "name": "Zur's Enchantments",
         "commanderImg": "https://example.com/profiles/zur_the_enchanter.jpg",
         "commander": ["zur_the_enchanter"],
@@ -97,7 +97,7 @@
     "cardColor": "Colorless",
     "sets": ["Mirrodin", "Commander Anthology", "Mirrodin Besieged"],
     "deck": {
-        "id": 4,
+        "id": 3,
         "name": "Memnarch's Dominion",
         "commanderImg": "https://example.com/profiles/memnarch.jpg",
         "commander": ["memnarch"],
@@ -126,7 +126,7 @@
     "cardColor": "Blue/Red/White",
     "sets": ["Khans of Tarkir", "Commander 2016", "Commander 2019"],
     "deck": {
-        "id": 5,
+        "id": 4,
         "name": "Narset's Enlightenment",
         "commanderImg": "https://example.com/profiles/narset_enlightened_master.jpg",
         "commander": ["narset_enlightened_master"],
