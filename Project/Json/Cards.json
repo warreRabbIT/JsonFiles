@@ -1,0 +1,62 @@
+[
+    {
+        "id": 0,
+        "name": "Aragorn, King of Gondor",
+        "description": "Legendary Creature - Human Noble",
+        "cmc": 4,
+        "isLegalInCommander": true,
+        "releaseDate": "1-1-1992",
+        "cardImg": "https://github.com/warreRabbIT/JsonFiles/blob/main/Project/Aragorn_King_of_Gondor.jpg?raw=true",
+        "cardColor": "Blue/White/Red",
+        "sets": ["fifth edition", "secret lair", "LoR special edition"],
+        "deck": "Decks.json#0"
+    },
+    {
+        "id": 1,
+        "name": "Elspeth, Sun's Champion",
+        "description": "Legendary Planeswalker - Elspeth",
+        "cmc": 6,
+        "isLegalInCommander": true,
+        "releaseDate": "1-1-2013",
+        "cardImg": "https://github.com/warreRabbIT/JsonFiles/blob/main/Project/Elspeth.jpg?raw=true",
+        "cardColor": "White",
+        "sets": ["Theros", "Commander Anthology", "Theros Beyond Death"],
+        "deck": "Decks.json#1"
+    },
+    {
+        "id": 2,
+        "name": "Zur the Enchanter",
+        "description": "Legendary Creature - Human Wizard",
+        "cmc": 4,
+        "isLegalInCommander": true,
+        "releaseDate": "1-1-2006",
+        "cardImg": "https://github.com/warreRabbIT/JsonFiles/blob/main/Project/Zur.jpg?raw=true",
+        "cardColor": "White/Blue/Black",
+        "sets": ["Coldsnap", "Commander 2016", "Commander 2017"],
+        "deck": "Decks.json#2"
+    },
+    {
+        "id": 3,
+        "name": "Memnarch",
+        "description": "Legendary Artifact Creature - Wizard",
+        "cmc": 7,
+        "isLegalInCommander": true,
+        "releaseDate": "1-1-2004",
+        "cardImg": "https://github.com/warreRabbIT/JsonFiles/blob/main/Project/memnarch.jpg?raw=true",
+        "cardColor": "Colorless",
+        "sets": ["Mirrodin", "Commander Anthology", "Mirrodin Besieged"],
+        "deck": "Decks.json#3"
+    },
+    {
+        "id": 4,
+        "name": "Narset, Enlightened Master",
+        "description": "Legendary Planeswalker - Narset",
+        "cmc": 6,
+        "isLegalInCommander": true,
+        "releaseDate": "1-1-2014",
+        "cardImg": "https://github.com/warreRabbIT/JsonFiles/blob/main/Project/Narset.jpg?raw=true",
+        "cardColor": "Blue/Red/White",
+        "sets": ["Khans of Tarkir", "Commander 2016", "Commander 2019"],
+        "deck": "Decks.json#4"
+    }
+]
