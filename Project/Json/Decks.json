@@ -16,7 +16,7 @@
         "contains100": false,
         "noIllegalCards": false,
         "isLegal": false,
-        "deckColor": "Blue/White/Red"
+        "deckColor": "Blue/Red/White"
     },
     {
         "id": 1,
