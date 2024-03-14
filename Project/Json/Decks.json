@@ -2,7 +2,7 @@
     {
         "id": 0,
         "name": "Riders of Rohan",
-        "commanderImg": "https://example.com/profiles/john_doe.jpg",
+        "commanderImg": "https://raw.githubusercontent.com/warreRabbIT/JsonFiles/main/Project/Img/Aragorn_King_of_Gondor.jpg",
         "commander": ["Aragorn, King of Gondor"],
         "planeswalkers": [],
         "creatures": ["creature1", "creature2", "creature3"],
@@ -21,7 +21,7 @@
     {
         "id": 1,
         "name": "Soldiers' Legion",
-        "commanderImg": "https://example.com/profiles/elspeth_suns_champion.jpg",
+        "commanderImg": "https://github.com/warreRabbIT/JsonFiles/blob/main/Project/Img/Elspeth.jpg?raw=true",
         "commander": ["Elspeth, Sun's Champion"],
         "planeswalkers": [],
         "creatures": ["soldier1", "soldier2", "soldier3"],
@@ -40,7 +40,7 @@
     {
         "id": 2,
         "name": "Zur's Enchantments",
-        "commanderImg": "https://example.com/profiles/zur_the_enchanter.jpg",
+        "commanderImg": "https://github.com/warreRabbIT/JsonFiles/blob/main/Project/Img/Zur.jpg?raw=true",
         "commander": ["Zur, the Enchanter"],
         "planeswalkers": [],
         "creatures": ["ethereal_armor", "sphere_of_safety"],
@@ -59,7 +59,7 @@
     {
         "id": 3,
         "name": "Memnarch's Dominion",
-        "commanderImg": "https://example.com/profiles/memnarch.jpg",
+        "commanderImg": "https://github.com/warreRabbIT/JsonFiles/blob/main/Project/Img/memnarch.jpg?raw=true",
         "commander": ["Memnarch"],
         "planeswalkers": [],
         "creatures": ["myr_battlesphere", "steel_hellkite"],
@@ -78,7 +78,7 @@
     {
         "id": 4,
         "name": "Narset's Enlightenment",
-        "commanderImg": "https://example.com/profiles/narset_enlightened_master.jpg",
+        "commanderImg": "https://github.com/warreRabbIT/JsonFiles/blob/main/Project/Img/Narset.jpg?raw=true",
         "commander": ["Narset, Enlightened Master"],
         "planeswalkers": [],
         "creatures": [],
