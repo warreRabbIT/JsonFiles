@@ -25,7 +25,8 @@
             "noDoubles": true,
             "contains100": false,
             "noIllegalCards": false,
-            "isLegal": false
+            "isLegal": false,
+            "deckColor": "Blue/White/Red"
         }
     },
     {
@@ -54,7 +55,8 @@
             "noDoubles": true,
             "contains100": false,
             "noIllegalCards": false,
-            "isLegal": false
+            "isLegal": false,
+            "deckColor": "White"
         }
     },
     {
@@ -83,7 +85,8 @@
             "noDoubles": true,
             "contains100": false,
             "noIllegalCards": false,
-            "isLegal": false
+            "isLegal": false,
+            "deckColor": "White/Blue/Black"
         }
     },
     {
@@ -112,7 +115,8 @@
             "noDoubles": true,
             "contains100": false,
             "noIllegalCards": false,
-            "isLegal": false
+            "isLegal": false,
+            "deckColor": "Colorless"
         }
     },
     {
@@ -141,7 +145,8 @@
             "noDoubles": true,
             "contains100": false,
             "noIllegalCards": false,
-            "isLegal": false
+            "isLegal": false,
+            "deckColor": "Blue/Red/White"
         }
     }
 ]
