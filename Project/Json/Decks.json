@@ -1,6 +1,6 @@
 [
     {
-        "id":0,
+        "id": 0,
         "name": "Riders of Rohan",
         "commanderImg": "https://example.com/profiles/john_doe.jpg",
         "commander": ["Aragorn, King of Gondor"],
@@ -15,7 +15,8 @@
         "noDoubles": true,
         "contains100": false,
         "noIllegalCards": false,
-        "isLegal": false
+        "isLegal": false,
+        "deckColor": "Multicolor"
     },
     {
         "id": 1,
@@ -33,7 +34,8 @@
         "noDoubles": true,
         "contains100": false,
         "noIllegalCards": false,
-        "isLegal": false
+        "isLegal": false,
+        "deckColor": "White"
     },
     {
         "id": 2,
@@ -51,7 +53,8 @@
         "noDoubles": true,
         "contains100": false,
         "noIllegalCards": false,
-        "isLegal": false
+        "isLegal": false,
+        "deckColor": "White/Blue/Black"
     },
     {
         "id": 3,
@@ -69,7 +72,8 @@
         "noDoubles": true,
         "contains100": false,
         "noIllegalCards": false,
-        "isLegal": false
+        "isLegal": false,
+        "deckColor": "Colorless"
     },
     {
         "id": 4,
@@ -87,6 +91,7 @@
         "noDoubles": true,
         "contains100": false,
         "noIllegalCards": false,
-        "isLegal": false
+        "isLegal": false,
+        "deckColor": "Blue/Red/White"
     }
 ]
