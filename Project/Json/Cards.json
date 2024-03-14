@@ -103,7 +103,7 @@
             "id": 3,
             "name": "Memnarch's Dominion",
             "commanderImg": "https://example.com/profiles/memnarch.jpg",
-            "commander": ["Omnath, Locust of All"],
+            "commander": ["Memnarch"],
             "planeswalkers": [],
             "creatures": ["myr_battlesphere", "steel_hellkite"],
             "sorceries": ["fabricate", "mindslaver"],
